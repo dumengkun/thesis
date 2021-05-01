@@ -9,4 +9,4 @@ In the `r` folder, the adaptive factor-adjusted multiple testing procedure ([Ada
 
 ### listNN
 
-In the `torch` folder, the feedforward neural network for constructing micro portfolios (listNN) is implemented in PyTorch. Empirical data in the `torch/sample` folder has been desensitized and is only used to display the format of inputs.
+In the `torch` folder, the feedforward neural network for constructing micro portfolios (listNN) is implemented in PyTorch. Empirical data in the `torch/sample` folder has been masked and is used to display the format of inputs.
