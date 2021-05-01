@@ -1,11 +1,11 @@
 # Thesis
 
-This repository contains codes and part of samples in my thesis *Multiple Testing Procedures on the Mean-Variance
-Efficiency of Factor Pricing Models*.
+This repository contains codes and part of samples in my PhD thesis *Multiple Testing Procedures on the Mean-Variance
+Efficiency of Factor Pricing Models*, including three methods named AdaFAT, SOAP and listNN.
 
 ## AdaFAT and SOAP
 
-In the `r` folder, the adptive factor-adjusted multiple testing procedure ([AdaFAT](https://arxiv.org/abs/2010.09589)) and the shrinkage operator for alternatives proportion (SOAP) are written in R codes. A simulation is given here as an example and model parameters are calibrated by Chinese A-share market from Jan. 2014 to Dec. 2018.
+In the `r` folder, the adaptive factor-adjusted multiple testing procedure ([AdaFAT](https://arxiv.org/abs/2010.09589)) and the shrinkage operator for alternatives proportion (SOAP) are written in R codes. A simulation is given here as an example and model parameters are calibrated by Chinese A-share market from Jan. 2014 to Dec. 2018.
 
 ## listNN
 
